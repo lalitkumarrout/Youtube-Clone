@@ -13,7 +13,7 @@ const ButtonList = () => {
     "Soccer",
     "Travel",
     "Recently uploaded",
-    "watched"
+    "watched",
   ];
   return (
     <div className="flex">
